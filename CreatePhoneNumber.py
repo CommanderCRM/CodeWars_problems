@@ -1,5 +1,4 @@
 def create_phone_number(n):
-    #your code here
     stri = "({prefix}) {fix}-{main}"
     prefix = ""
     fix = ""
