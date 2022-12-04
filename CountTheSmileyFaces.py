@@ -1,5 +1,6 @@
 import re
 
+
 def count_smileys(arr):
     count = 0
     regex = r"[:;][-~]?[)D]"

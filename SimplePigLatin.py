@@ -1,5 +1,6 @@
 import string
 
+
 def pig_it(text):
     splitted = text.split()
     pigged = [word[1:] + word[0] + 'ay'

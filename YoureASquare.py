@@ -1,4 +1,4 @@
-def is_square(n):    
+def is_square(n):
     import math
     if n >= 0:
         root = math.sqrt(n)
